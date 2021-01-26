@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1"
+    creator="Created via GPX Recorder for Android"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.topografix.com/GPX/1/1"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata><name>Untitled</name><desc>Recorded with GPX Recorder for Android</desc></metadata><trk><name></name><trkseg><trkpt lat="10.800084" lon="106.6369134"><ele>8.09999942779541</ele> <time>2021-01-22T19:25:00Z</time></trkpt></trkseg></trk><wpt lat="10.8000729" lon="106.6369095"><name>pldd</name><desc>@0.08km</desc><ele>8.09999942779541</ele><time>2021-01-22T19:25:18Z</time></wpt> <wpt lat="10.8000729" lon="106.6369095"><name>tgy</name><desc>@0.06km</desc><ele>8.09999942779541</ele><time>2021-01-22T19:25:18Z</time></wpt>
+</gpx>

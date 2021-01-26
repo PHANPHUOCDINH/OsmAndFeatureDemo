@@ -1,0 +1,12 @@
+.idea/
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+*/google-services.json
+*.apk
+app/release/*
+*google_maps_api.xml
